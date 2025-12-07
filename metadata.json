@@ -1,0 +1,8 @@
+{
+  "name": "Live Assistant Builder",
+  "description": "A SaaS onboarding assistant builder that uses Gemini Live API to see your screen and guide you verbally.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
